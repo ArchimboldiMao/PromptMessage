@@ -3,6 +3,7 @@ A prompt message framework for iOS apps.
 
 ## Requirements
 * iOS 8.0+
+* Xcode 8.0+
 * Swift 3
 
 ## Installation
@@ -38,6 +39,11 @@ PromptMessage.show(withMessage: message)
         
 More usage, please see the [PromptMessageExample](./Examples/PromptMessageExample).
 
+## Author
+
+Written by Archimboldi Mao. You can [find me on Twitter](https://twitter.com/ArchimboldiMao) if you have any suggestions, requests, or just want to talk!
+
+If you use this library in your application, please let me know about it.
 
 ## License
 All code contributed to PromptMessage is released under an Apache 2.0 license.
