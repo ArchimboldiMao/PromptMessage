@@ -1,0 +1,16 @@
+PODS:
+  - PromptMessage (1.0.0)
+
+DEPENDENCIES:
+  - PromptMessage (from `../../../PromptMessage/`)
+
+EXTERNAL SOURCES:
+  PromptMessage:
+    :path: "../../../PromptMessage/"
+
+SPEC CHECKSUMS:
+  PromptMessage: 96ab1b949e6a7a6592bb4c5791e686758d14e912
+
+PODFILE CHECKSUM: 1350257d80b5d888a36214d3172c7c854df4643b
+
+COCOAPODS: 1.2.1
