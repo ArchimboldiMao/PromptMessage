@@ -1,6 +1,9 @@
 ## PromptMessage
 A prompt message framework for iOS apps.
 
+[![PromptMessage v1.0.0](https://img.shields.io/badge/release-v1.0.0-green.svg)](https://github.com/ArchimboldiMao/PromptMessage/tree/1.0.0)
+[![PromptMessage licence](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://github.com/ArchimboldiMao/PromptMessage/blob/master/LICENSE)
+
 ## Requirements
 * iOS 8.0+
 * Xcode 8.0+
